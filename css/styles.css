@@ -1,0 +1,263 @@
+/* header */
+body { font-family: Roboto, sans-serif;
+}
+
+button { cursor: pointer;
+}
+
+.list {list-style: none;}
+
+.header { 
+}
+.header-nav {
+}
+.header-logo { 
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2E2F42;
+}
+.header-logo-blue { 
+    width: 44px;
+    height: 21px;
+    color: #4D5AE5;
+}
+
+.header-list {
+}
+.header-item {
+}
+.header-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-decoration: none;
+color: #2E2F42;
+}
+.header-link:hover,
+.header-link:focus {
+    color: #404bbf;
+}
+.address-list {
+}
+.address-list-item {
+
+}
+.address-list-link {
+font-style: normal;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-decoration: none;
+color: #434455;
+}
+
+.address-list-link:hover,
+.address-list-link:focus {
+    color: #404bbf;
+}
+
+/* hero style */
+.main {
+}
+.section {
+}
+.hero {
+    background-color: #2E2F42;
+}
+.hero-tittle {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.hero-btn {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+background-color: #4D5AE5;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404BBF;
+}
+
+/* section solutions */
+
+.section {
+}
+.solutions {
+}
+.solutions-title {
+}
+.solutions-list {
+}
+.solutions-list-item {
+}
+.solutions-list-name {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.solutions-list-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+/* section tasks */
+
+.section {
+}
+.tasks {
+}
+.tasks-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+.tasks-list {
+}
+.tasks-list-item {
+}
+.tasks-list-img {
+width: 360px;
+height: 300px;
+}
+
+/* section team */
+
+.section {
+}
+.team {
+    background: #F4F4FD;
+}
+.team-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+.team-list {
+}
+.team-list-item {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+    border-radius: 0px 0px 4px 4px;
+}
+.team-list-img {
+width: 264px;
+height: 260px;
+}
+.team-list-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;  
+}
+.team-list-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.footer {
+    background: #2E2F42;
+}
+.footer-logo {
+font-family: 'Raleway';
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+text-decoration: none;
+color: #F4F4FD;
+}
+
+.footer-logo-white { 
+color: #4D5AE5;
+}
+
+.footer-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
+
+/* portfolio */
+
+.section-projects {
+}
+.projects-filters {
+}
+.projects-filters-item {
+}
+.filter-button-all {
+color: #FFFFFF;
+background: #404BBF;
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+}
+.filter-button {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+background: #F4F4FD;
+border: 1px solid #E7E9FC;
+border-radius: 4px;
+}
+.img-finger {
+}
+
+/* projects */
+
+.projects-list {
+}
+.projects-list-item {
+background: #FFFFFF;
+border: 1px solid #E7E9FC;
+}
+.projects-list-img {
+width: 360px;
+height: 300px;
+}
+.projects-list-tittle {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.projects-list-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
