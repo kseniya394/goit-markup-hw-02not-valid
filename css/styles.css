@@ -7,8 +7,6 @@ button { cursor: pointer;
 
 .list {list-style: none;}
 
-.header { 
-}
 .header-nav {
 }
 .header-logo { 
@@ -111,6 +109,7 @@ line-height: 1.2
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
+
 .solutions-list-text {
 font-weight: 400;
 font-size: 16px;
